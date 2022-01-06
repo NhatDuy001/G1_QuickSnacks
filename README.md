@@ -1,3 +1,29 @@
 # G1_QuickSnacks
+2109.M1-eProject-Group_1 Batch no.: T1.2109.M1
 
- https://nhatduy001.github.io/G1_QuickSnacks/
+CENTER NAME: ACE-HCMC-2-FPT
+
+Project title: Quicks snack
+
+========> Group 1 <=========
+
+3 collaborators:
+
+     -Tran Nhat   |  ID-Student1339034
+     -Truong Viet Hoang |  ID-Student1339266
+     -Tran Van Hung |  ID-Student1285599
+     -Ho Thang   |  ID-Student1339032
+
+============================
+
+github report link:
+
+eProject published at  https://nhatduy001.github.io/G1_QuickSnacks/
+
+eProject report link at: https://github.com/PhamLong123/G2_MusicWorld/tree/master/doc
+
+============================
+
+Thank you for spending your time to look at our work. Happy Holidays
+
+
