@@ -20,8 +20,7 @@ github report link:
 
 eProject published at  https://nhatduy001.github.io/G1_QuickSnacks/
 
-eProject report link at: https://github.com/PhamLong123/G2_MusicWorld/tree/master/doc
-
+eProject report link at: 
 ============================
 
 Thank you for spending your time to look at our work. Happy Holidays
